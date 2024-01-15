@@ -1,16 +1,11 @@
-### Hi there 👋
+<h1 align="center">
+    Hi! I'm Gabriel! 
+</h1>
+<p>
+  I've worked on malware detection and now I'm working on the machine learning side of <i>Galaxy Watch</i> fitness applications.
+  I'm pretty interested on cool brainmelting problems!
+</p>
 
-<!--
-**Gabomfim/Gabomfim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gabomfim&theme=dark&hide_border=true" />
+</div>
