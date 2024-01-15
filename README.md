@@ -3,6 +3,7 @@
 </h1>
 <p align="center">
   I've worked on malware detection and now I'm working on the machine learning side of <i>Galaxy Watch</i> fitness applications.
+  <br/>
   I'm pretty interested on cool brainmelting problems!
 </p>
 
